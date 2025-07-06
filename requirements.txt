@@ -2,3 +2,5 @@ requests
 python-binance
 ta
 pandas
+numpy
+dateparser
