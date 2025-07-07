@@ -6,4 +6,4 @@ TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
 # Use Binance Futures TESTNET to bypass location restrictions
-BINANCE_TESTNET = True
+BINANCE_TESTNET = False 
