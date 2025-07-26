@@ -1,4 +1,4 @@
-from price_fallback import get_price  # Make sure this is at the top of your file
+from price_fallback import get_price
 
 def check_coin_for_signals(symbol, uuid, coin_data):
     try:
