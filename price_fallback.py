@@ -3,10 +3,10 @@ import time
 
 # === CoinRanking API Key Rotation ===
 COINRANKING_KEYS = [
-    "coinranking265c40af7de0f7e6e34ed4d23d853be80f7637bdda0edd28 -1",
-    "coinranking8352ab1e49611aa3fdd91060ef6b5b82403970be2446da63 -2",
-    "coinranking57ff76f91a256a110c5e9e2cf523a52e9803cfb406e878a4 -3",
-    "coinranking6d76eeaa95660c9fd1b485042b2912aa4d4035e1482a7f66 -4"
+    "coinranking265c40af7de0f7e6e34ed4d23d853be80f7637bdda0edd28",
+    "coinranking8352ab1e49611aa3fdd91060ef6b5b82403970be2446da63",
+    "coinranking57ff76f91a256a110c5e9e2cf523a52e9803cfb406e878a4",
+    "coinranking6d76eeaa95660c9fd1b485042b2912aa4d4035e1482a7f66"
 ]
 key_index = 0
 last_used_key_time = 0
