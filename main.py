@@ -1,3 +1,7 @@
+from price_fallback import get_price
+import time
+import requests
+
 def check_coin_for_signals(symbol, uuid, coin_data):
     try:
         # ✅ Step 1: Get price using fallback rotation
